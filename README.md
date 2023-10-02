@@ -1,3 +1,6 @@
+![Visitor Count](https://profile-counter.glitch.me/sp4398/count.svg)
+<div style="text-align: right">
+
 ### Hi there 👋
 ### 📫 How to reach me: sp4398@gmail.com
 ### 🔭 I’m currently working on React
