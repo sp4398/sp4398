@@ -8,20 +8,14 @@
 <a href="https://www.linkedin.com/in/saurav-pandey-b399731a0/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="mailto:sp4398@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 
-### 🔭 I’m currently working on React
-### ✌ Ask me about **Python, Web designing, Front-end and Backend-end Development**
+- 🔭 I’m currently working on React
+- ✌ Ask me about **Python, Web designing, Front-end and Backend-end Development**
+- 📫 How to reach me sp4398@gmail.com
+-  👨‍💻 All of my projects are available at [here](https://github.com/sp4398?tab=repositories)
 
-<!--
-**sp4398/sp4398** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=sp4398&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=sp4398&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=sp4398&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center"><img src="https://i.ibb.co/0MZzJ2d/download.png" border="0"></p>
