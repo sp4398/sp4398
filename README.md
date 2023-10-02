@@ -15,7 +15,7 @@
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=sp4398&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=shafimohammad09&theme=dark&hide_border=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=sp4398&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sp4398&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 <p align="center"><img src="https://i.ibb.co/0MZzJ2d/download.png" border="0"></p>
