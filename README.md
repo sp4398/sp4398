@@ -9,8 +9,8 @@
 <a href="https://www.linkedin.com/in/saurav-pandey-b399731a0/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="mailto:sp4398@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 
-- 🔭 I’m currently working on React
-- ✌ Ask me about **Python, Web designing, Front-end and Backend-end Development**
+- 🔭 I’m currently working on Full Stack
+- ✌ Ask me about **Python, Web designing, Front-end, and Backend-end Development**
 - 📫 How to reach me sp4398@gmail.com
 -  👨‍💻 All of my projects are available at [here](https://github.com/sp4398?tab=repositories)
 
